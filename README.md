@@ -54,3 +54,36 @@ Es mi primer proyecto donde me siento cómodo diciendo:
 
 ## 📂 Estructura del proyecto
 
+/AtenciaHomes-4.0
+│
+├── index.html
+├── css/
+│ └── estilos.css
+├── media/
+│ └── img/
+│ └── imágenes y fondos
+├── js/ (si aplica)
+└── README.md
+
+
+---
+
+## 🚀 Próximos pasos (futuros)
+
+- [ ] Añadir animaciones suaves con JS o CSS
+- [ ] Mejorar accesibilidad (uso de `aria`, etiquetas semánticas, etc.)
+- [ ] Incluir sección de contacto funcional
+- [ ] Optimizar imágenes y tiempos de carga
+
+---
+
+## 🔗 Otras versiones del proyecto
+
+| Versión | Link |
+|--------|------|
+| v1.0   | [AtenciaHomes 1.0](https://jesus323dev.github.io/AtenciaHomes.com/) |
+| v2.0   | [AtenciaHomes 2.0](https://jesus323dev.github.io/Atenciahomes2.0/) |
+| v3.0   | [AtenciaHomes 3.0](https://jesus323dev.github.io/Atencia-Homes-3.0/) |
+
+---
+
