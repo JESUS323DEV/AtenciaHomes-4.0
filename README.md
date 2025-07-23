@@ -1,4 +1,4 @@
-# Atencia Homes 4.0 ![Versión](https://img.shields.io/badge/versión-final-success)
+# Atencia Homes 4.0  ![Estado](https://img.shields.io/badge/versión-en%20progreso-orange)
 
 🔗 **Ver online:** [Atencia Homes 4.0 en GitHub Pages](https://jesus323dev.github.io/AtenciaHomes-4.0/)
 
